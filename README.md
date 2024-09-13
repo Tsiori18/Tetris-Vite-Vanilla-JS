@@ -1,6 +1,6 @@
-# Python Tetris
+# Vite and Vanilla JS Tetris
 
-This is the repository with non-finished implementation of the tetris. Please, be patient because I am writing it in my free time :-).
+This is repository for a simple tetris game made with Vite and Vanilla JS.
 
 ### Prerequisites
 
