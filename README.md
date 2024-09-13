@@ -4,7 +4,11 @@ This is repository for a simple tetris game made with Vite and Vanilla JS.
 
 ### Prerequisites
 
-The game is based on the pygame library. You can install it using the pip tool.
+To install this project locally run the following command:
+```
+git clone https://github.com/Tsiori18/Tetris-Vite-Vanilla-JS.git
+```
+Then change the directory into cloned repository and run ```npm install``` to install all dependencies.
 
 To run development server:
 ```
